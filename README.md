@@ -163,7 +163,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 - **Website**: [agentblack.market](https://agentblack.market)
 - **X Community**: [Join the community](https://x.com/i/communities/2019110068663566690)
-- **$BLACK Token**: [pump.fun](https://pump.fun/coin/Gr2r5w7ZcLYTLe4q3P8QSkeTp923wsNuePNJxpg1pump)
 
 ---
 
